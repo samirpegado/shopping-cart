@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Drum",
+        "price": 1366.50,
+        "imgUrl": "imgs/drums.jpg" 
+    },
+    {
+        "id": 2,
+        "name": "Guitar",
+        "price": 799,
+        "imgUrl": "/imgs/guitar.jpg" 
+    },
+    {
+        "id": 3,
+        "name": "Bass",
+        "price": 679,
+        "imgUrl": "/imgs/bass.jpg" 
+    },
+    {
+        "id": 4,
+        "name": "Keyboard",
+        "price": 1756.99,
+        "imgUrl": "/imgs/key.jpg" 
+    },
+    {
+        "id": 5,
+        "name": "Ac Guitar",
+        "price": 579.86,
+        "imgUrl": "/violao.jpg" 
+    },
+    {
+        "id": 6,
+        "name": "Microfone",
+        "price": 246,
+        "imgUrl": "imgs/mic.jpg" 
+    }
+]
